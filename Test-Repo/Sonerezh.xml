@@ -6,6 +6,7 @@
 <Description>A self-hosted, web-based application for streaming your music, everywhere.[br]Sonerezh works with the latest web technologies.[br]IMPORTANT :- YOU MUST CHANGE THE HOST PORT BELOW[br] ALSO CREATE A DATABASE IN MARIADB/MYSQL SERVER</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/sonerezh/</Registry>
 <Repository>sparklyballs/sonerezh</Repository>
+<Category>MediaStreamer</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
