@@ -6,6 +6,7 @@
 <Description>Browser based IRC client using node, config options in the locally stored config.js[br][br]For more information visit http://shout-irc.com/docs/getting_started/usage.html</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/shout-irc/</Registry>
 <Repository>sparklyballs/shout-irc</Repository>
+<Category>Internet</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
