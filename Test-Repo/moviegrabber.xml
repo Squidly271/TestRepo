@@ -10,6 +10,7 @@
 [b]/movies[/b] Where your movies are.[br]</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/moviegrabber/</Registry>
 <Repository>sparklyballs/moviegrabber</Repository>
+<Category>Downloaders</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
