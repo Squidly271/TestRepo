@@ -6,6 +6,7 @@
 <Description>PACS server instance</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/pacs/</Registry>
 <Repository>sparklyballs/pacs</Repository>
+<Category>MediaServer</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
