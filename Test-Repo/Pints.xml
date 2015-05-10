@@ -6,6 +6,7 @@
 <Description>Raspberry Pints, beer tap display app[br]IMPORTANT :- YOU MUST CHANGE THE HOST PORT BELOW</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/pints/</Registry>
 <Repository>sparklyballs/pints</Repository>
+<Category>Other</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
