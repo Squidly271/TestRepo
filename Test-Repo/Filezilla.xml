@@ -6,6 +6,7 @@
   <Overview>FileZilla, the free FTP solution.</Overview>
   <Registry>https://registry.hub.docker.com/u/sparklyballs/filezilla/</Registry>
   <Repository>sparklyballs/filezilla</Repository>
+  <Category>downloaders</Category>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
