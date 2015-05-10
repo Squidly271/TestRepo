@@ -8,6 +8,7 @@ Set local unraid storage location to save var/www/gallery for persistence.[br][b
 [br]YOU MUST ALSO CHANGE THE HOST PORT BELOW OR IT WILL CLASH WITH THE UNRAID WEBUI PORT</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/piwigo/</Registry>
 <Repository>sparklyballs/piwigo</Repository>
+<Category>productivity other</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
