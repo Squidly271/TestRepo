@@ -6,6 +6,7 @@
 <Description>Lychee is a free photo-management tool, which runs on your server or web-space.[br]IMPORTANT REQUIRES A MYSQL/MARIADB SERVER AND A USER FOR LYCHEE[br]:- YOU MUST CHANGE THE HOST PORT BELOW</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/lychee/</Registry>
 <Repository>sparklyballs/lychee</Repository>
+<Category>productivity</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
