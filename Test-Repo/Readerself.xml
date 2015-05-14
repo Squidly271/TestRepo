@@ -6,7 +6,7 @@
 <Description>Reader Self. Self-hosted rss reader. (Requires mysql/mariadb)[br]IMPORTANT :- YOU MUST CHANGE THE HOST PORT BELOW</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/readerself/</Registry>
 <Repository>sparklyballs/readerself</Repository>
-<Category>Other</Category>
+<Category>OtherMediaServer</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
