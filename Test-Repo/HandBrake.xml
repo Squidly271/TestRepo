@@ -6,7 +6,7 @@
   <Overview>HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. Full gui in a RDP container accessible via browser. Also contains the CLI version of handbrake with a script for automation of movie conversions.</Overview>
   <Registry>https://registry.hub.docker.com/u/sparklyballs/handbrake/</Registry>
   <Repository>sparklyballs/handbrake</Repository>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Backup: Cloud: Downloaders: HomeAutomation: Network:Web MediaApp:Video MediaServer:Video Other: Productivity:</Category>
 <BindTime>true</BindTime>
   <Privileged>false</Privileged>
