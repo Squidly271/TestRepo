@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
+  <Changes>This is a test
+  This is line 2
+  <b>line 3 is bold</b>
+  Line4
+  </Changes>
 <Name>Amule</Name>
 <Overview>Amule is an eMule-like client for the eD2k and Kademlia networks.</Overview>
 <Support>http://lime-technology.com/forum/index.php?topic=37209</Support>
