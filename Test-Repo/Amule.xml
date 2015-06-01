@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
-  <Changes>This is a test
-  This is line 2
-  <b>line 3 is bold</b>
+  <Changes>This is a test<br>
+  This is line 2<br>
+  <strong>line 3 is bold</strong><br>
   Line4
   </Changes>
 <Name>Amule</Name>
