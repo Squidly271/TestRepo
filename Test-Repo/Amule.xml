@@ -3,7 +3,8 @@
   <Changes>This is a test[br]
   This is line 2[br]
   [b]this is bold[/b][br]
-  ###this is also bold###
+  [strong]this is also bold[strong]
+  [font size=12pt]this is big[/font]
   Line4
   </Changes>
 <Name>Amule</Name>
