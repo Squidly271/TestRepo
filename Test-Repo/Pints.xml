@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
+  [center][font size=12]mmm Beer[/font][/center]</Changes>
 <Name>Pints</Name>
 <Overview>Beer tap display server for home brewers.</Overview>
 <Support>http://lime-technology.com/forum/index.php?topic=37209</Support>
