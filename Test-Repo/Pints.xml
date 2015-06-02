@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
  <Changes>[font size=4]mmm Beer[/font]
-  [br][center]Not Just for breakfast anymore[/center]
-  &#91;br&#93;
+  [br][center]Not Just for breakfast anymore&#8482;[/center][br]hello  &#91;br&#93;
  </Changes>
 <Name>Pints</Name>
 <Overview>Beer tap display server for home brewers.</Overview>
