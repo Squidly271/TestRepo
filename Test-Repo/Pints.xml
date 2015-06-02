@@ -2,6 +2,7 @@
 <Container>
  <Changes>[font size=4]mmm Beer[/font]
   [br][center]Not Just for breakfast anymore[/center]
+  &#91;br&#93;
  </Changes>
 <Name>Pints</Name>
 <Overview>Beer tap display server for home brewers.</Overview>
