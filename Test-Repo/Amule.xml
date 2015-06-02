@@ -5,7 +5,7 @@
   [b]this is bold[/b][br]
   [strong]this is also bold[strong]
   [font size=12pt]this is big[/font]
-  Line4
+  [center]Line4[/center]
   </Changes>
 <Name>Amule</Name>
 <Overview>Amule is an eMule-like client for the eD2k and Kademlia networks.</Overview>
