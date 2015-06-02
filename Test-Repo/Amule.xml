@@ -2,12 +2,12 @@
 <Container>
   <Changes>
     [center][img width='300px' src='http://i117.photobucket.com/albums/o43/sparklyballs_album/Fubar/sparklyballs2.gif'][/center]
-    This is a test[br]
-  This is line 2[br]
-  [b]this is bold[/b][br]
-  [strong]this is also bold[strong]
-  [font size=12pt]this is big[/font]
-  [center]Line4[/center]
+ 
+ [center][font-size=6]pyNab Change Log[/font][/center]
+ 
+ [font size=4]2015.06.01[/font]
+ - Initial Release
+ [font size=4]2015.06.02[/font]
   </Changes>
 <Name>Amule</Name>
 <Overview>Amule is an eMule-like client for the eD2k and Kademlia networks.</Overview>
